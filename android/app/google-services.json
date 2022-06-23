@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36314125763",
+    "project_id": "mad-weather-project",
+    "storage_bucket": "mad-weather-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36314125763:android:829a7bc0bc978b57a85976",
+        "android_client_info": {
+          "package_name": "com.example.weatherapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36314125763-cnvg6f4kdon3rkusa7vsucbk331cjcm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvrzLVRAaCRpMMlZA85nK11G0-C8ENWFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36314125763-cnvg6f4kdon3rkusa7vsucbk331cjcm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
